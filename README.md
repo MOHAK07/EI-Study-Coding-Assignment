@@ -29,7 +29,7 @@ The Satellite Control System is a Java application that simulates the control an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/satellite-control-system.git](https://github.com/MOHAK07/EI-Study-Coding-Assignment.git)https://github.com/MOHAK07/EI-Study-Coding-Assignment.git
+   git clone https://github.com/MOHAK07/EI-Study-Coding-Assignment.git
   
 2. Navigate to the project directory:
 
