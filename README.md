@@ -41,7 +41,6 @@ The Satellite Control System is a Java application that simulates the control an
    ```bash
    javac Main.java
    
-
 ## Usage
 
 1. Run the application:
@@ -80,6 +79,6 @@ The code adheres to SOLID principles, including Single Responsibility, Open/Clos
 The application includes a logging mechanism using the SatelliteLogger class. Exception handling is implemented to handle invalid inputs, and transient error handling is incorporated for data collection.
 
 
-
+## Required Output
 
 ![Satellite_command_system _output](https://github.com/MOHAK07/EI-Study-Coding-Assignment/assets/73355324/53daa18a-33d1-4605-a26e-7cbd4112be97)
